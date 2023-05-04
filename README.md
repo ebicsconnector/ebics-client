@@ -32,11 +32,11 @@ The main benefits of our implementation include:
 
 ## How to Obtain the Micro-Service
 
-To obtain a copy of the EBICS Client Micro-Service, please [contact our sales team](contact@ebics-connector.com). We will provide you with a binary version of the micro-service along with installation and usage instructions.
+To obtain a copy of the EBICS Client Micro-Service, please [contact our sales team](mailto:contact@ebics-connector.com). We will provide you with a binary version of the micro-service along with installation and usage instructions.
 
 ## Support and Maintenance
 
-If you need assistance using or integrating the EBICS Client Micro-Service, please [contact our support team](support@ebics-connector.com). We also offer maintenance and enhancement services upon request.
+If you need assistance using or integrating the EBICS Client Micro-Service, please [contact our support team](mailto:support@ebics-connector.com). We also offer maintenance and enhancement services upon request.
 
 ## Contribute and Share
 
